@@ -16,7 +16,7 @@ namespace Lab7_Entity_Framework
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+            Application.Run(new RoleForm());
         }
     }
 }
